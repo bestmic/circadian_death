@@ -29,7 +29,7 @@ This repository provide free open access for replicability and educational purpo
 1. cancer_death_hongkong.dta (Stata format)  
 2. CircadianAnalysis.do  
 
-Data were drawn from the Clinical Data Analysis and Reporting System (CDARS), which is an electronic database operated by the Hospital Authority of Hong Kong. 
+Data were drawn from the Clinical Data Analysis and Reporting System, which is an electronic database operated by the Hospital Authority of Hong Kong. 
 
 Please **cite** this repository as follows:   
 
