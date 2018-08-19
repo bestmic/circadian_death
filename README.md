@@ -38,6 +38,6 @@ Shing Fung Lee, Miguel-Angel Luque Fernandez (2018). *Chronobiologic Rhythm of D
 
 **Figure**. Time of cancer death in minutes of the day in acute oncology and cancer palliative wards in Hong Kong, 2008 to 2016.  
 
-![Figure Link](https://github.com/bestmic/circadian_death/Figure.jpg) 
+![Figure Link](https://github.com/bestmic/circadian_death/blob/master/Figure.jpg) 
  
 **Acknowledgment**: Miguel Angel Luque-Fernandez is supported by a Miguel Servet I Investigator Award (grant CP17/00206) from the Carlos III Institute of Health, Spain. We thank Mr K.F. Tsang for clerical support and database retrieval.
