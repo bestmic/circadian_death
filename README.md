@@ -5,6 +5,7 @@
 Shing Fung Lee, Miguel-Angel Luque Fernandez (senior author)
 
 ## Abstract
+
 **Background**
 Many studies have revealed the circadian pattern of sudden cardiac death. However, only small studies provided data regarding circadian rhythm in the temporal distribution of cancer death. We modeled the time of cancer death and examined if the circadian rhythm existed.
 
