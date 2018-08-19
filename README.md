@@ -1,5 +1,5 @@
 ## Title
-*Chronobiologic Rhythm of Death in Cancer Patients: a Hong Kong Population-Based Study.* 
+*Chronobiologic Rhythm of Death in Cancer Patients: a Population-Based Study.* 
 
 **Authors**  
 Shing Fung Lee, Miguel-Angel Luque Fernandez (senior author)
